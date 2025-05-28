@@ -52,4 +52,3 @@ Frontend: Web/Flutter UI + Mood Dashboards
 ```
     ❤️ Built to listen, feel, and heal.
 ```
-# VIBE
